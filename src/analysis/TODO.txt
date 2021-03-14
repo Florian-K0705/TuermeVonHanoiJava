@@ -1,0 +1,9 @@
+1. In NumercialIntegration Simpsonregel implementieren 
+	
+2. In NumercialIntegration Mittelpunktsregel implementieren 
+	
+3. In NumercialIntegration Trapezregel implementieren 
+
+4. Eventuell noch weitere interessante Funktion implementieren (transzendente, logistische, ...)
+
+5. Klasse implementieren, die eine Komplexe Zahl repräsentiert und Methoden, um mit diesen zu rechnen

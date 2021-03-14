@@ -1,0 +1,7 @@
+1. Jeder Algorithmus soll (nach Möglichkeit) effizient laufen.
+
+2. Quicksort soll nur einmal vorkommen natürlich.
+
+3. Alle Klassen sollen nach dem selben Schema funktionieren. Das heißt erstelle ein Interface, dass alle Sortieralgorithmen implementieren.
+
+4. Implementiere mehr Verfahren, nach belieben.

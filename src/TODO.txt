@@ -1,0 +1,22 @@
+Als erstes muss ein guter Name her.
+
+Dann muss noch von oben nach unten jeder Ordner druchgearbeitet werden, um zu prüfen, ob
+
+	1. jede Klasse und jeder Algorithmus funktionert
+
+	2. jede Klasse auch eine schöne und elegante Lösung ist
+
+	3. alle Algorithmen, die mehrere Klassen benötigen, eine schöne Architektur haben.
+
+	4. alle Algorithmen im richtigen Ordner sind
+
+	5. es Redundanzen gibt
+
+	6. noch mehr Algorithmen zu dem Thema implementiert werden sollen.
+
+und anschließend zu jedem Ordner eine TODO-datei schreiben, die alle noch anstehenden Arbeiten beschreibt.
+
+
+
+Danach ist meine persöhnliche Algorithmensammlung vollständig und kann erweitert und verwendet werden.
+Vlt kann noch eine Schnittstelle etwickelt werden, die diese Sammlung zu einer vollständigen Bibliothek erweitert. Das aber erst in ferner Zukunft.

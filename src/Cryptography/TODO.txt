@@ -1,8 +1,0 @@
-1. Überarbeite unbedingt Caesarchiffre und VigenereChiffre. Die Implementierung ist katastrophal.
-
-2. Benennen XOREncyrption um in OneTimePad und überarbeite auch dies zu einem ordentlichen OneTimePad
-
-3. Implementiere TEA (Tiny Encryption Algorithm)      } <- Und vlt andere Blockchiffren
-4. Implementiere AES				      } <-
-
-5. Implementiere SHA-3

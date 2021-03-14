@@ -1,5 +1,0 @@
-1. Überarbeite die Klasse Matrix. Viele Konstruktoren und Methoden werden nicht gebraucht!!
-
-2. Der Strassen-Algorithmus ist noch nicht fertig implementiert. Beende diese.
-
-3. Naja implementiere alles, was man so zu Linearer Algebra programmieren kann...

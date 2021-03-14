@@ -1,5 +1,0 @@
-1. Unbedingt !jede! Klasse nochmal überarbeiten und verschönern.
-
-2. erweiterter euklidischer algorithmus
-
-3. chinesischer Restsatz

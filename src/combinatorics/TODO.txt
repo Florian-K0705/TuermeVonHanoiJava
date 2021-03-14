@@ -1,3 +1,0 @@
-1. Es gibt definitiv ein schnelleres Verfahren um einen BinomialKoeffizienten auszurechnen. (siehe Wikipedia) 
-
-2. Implementiere eine Methode in der Klasse Binomial, der zu zwei gegebenen a und b und einem n rechnet: (a+b)^n
